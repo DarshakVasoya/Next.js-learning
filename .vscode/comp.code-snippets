@@ -1,0 +1,16 @@
+{
+	"Create component": {
+	  "prefix": "com",
+	  "body": [
+		"const name =() => {",
+		"  return (",
+		"    <div>name</div>",
+		"  );",
+		"}",
+		"",
+		"export default name"
+	  ],
+	  "description": "Creates component for next"
+	}
+  }
+  
